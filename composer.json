@@ -1,5 +1,5 @@
 {
-  "name": "magenerds/baseprice",
+  "name": "action-simon/baseprice",
   "description": "This module displays base prices",
   "require": {
     "magento/framework": "^100.0.0|^101.0.0|^102.0.0|^103.0.0",
@@ -12,7 +12,7 @@
       "registration.php"
     ],
     "psr-4": {
-      "Magenerds\\BasePrice\\": ""
+      "action-simon\\BasePrice\\": ""
     }
   }
 }
